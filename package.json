@@ -1,0 +1,6 @@
+{
+  "name": "talarto-telegram-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "پروکسی ساده برای دور زدن محدودیت دسترسی ایران به تلگرام"
+}
