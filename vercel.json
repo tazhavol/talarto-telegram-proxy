@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/telegram/:match*",
+      "destination": "/api/telegram/[...path]"
+    }
+  ]
+}
